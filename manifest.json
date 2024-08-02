@@ -1,0 +1,15 @@
+{
+  "domain": "nature_remo",
+  "name": "Nature Remo",
+  "codeowners": [
+    "@kevin-mitchell"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/kevin-mitchell/hass-nature-remo",
+  "homekit": {},
+  "iot_class": "assumed_state",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
