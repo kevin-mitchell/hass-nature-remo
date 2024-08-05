@@ -9,7 +9,10 @@
   "documentation": "https://github.com/kevin-mitchell/hass-nature-remo",
   "homekit": {},
   "iot_class": "assumed_state",
-  "requirements": [],
+  "requirements": [
+    "requests"
+  ],
   "ssdp": [],
-  "zeroconf": []
+  "zeroconf": [],
+  "version": "0.0.1"
 }
